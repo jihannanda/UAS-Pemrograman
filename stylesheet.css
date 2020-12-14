@@ -88,14 +88,7 @@ nav.menu ul a:hover {
 	text-decoration: underline;
 	background:#16a085;
 }
-.topnav input[type=text] {
-  float: right;
-  padding: 6px;
-  border: none;
-  margin-top: 8px;
-  margin-right: 16px;
-  font-size: 17px;
-}
+
 .sidebar {
 	float:right;
 	width:275px;
